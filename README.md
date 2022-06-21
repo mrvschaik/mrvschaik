@@ -1,5 +1,5 @@
 - Hi, I’m @mrvschaik
-- I’m interested in javascript
+- I’m interested in css
 
 <!---
 mrvschaik/mrvschaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
